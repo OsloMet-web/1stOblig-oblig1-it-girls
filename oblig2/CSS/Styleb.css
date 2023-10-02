@@ -1,23 +1,3 @@
 body{
     background-color: beige;
 }
-button {
-    background-color: white;
-
-    font-family: IBM Plex Mono;
-    font-size: 700;
-    text-transform: uppercase;
-
-    padding: 12px 18px;
-
-    border-radius: 4px;
-    border: solid 2px #121212;
-    box-shadow: 4px 4px #121212;
-    transition: transform 50ms;
-        box-shadow: 50ms;
-}
-
-button:active {
-    transform: translate(2px, 2px);
-    box-shadow: 2px 2px #121212;
-}
