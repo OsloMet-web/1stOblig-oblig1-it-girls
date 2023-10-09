@@ -34,8 +34,18 @@ img {
     text-align: center;
 }
 
+#resultat1 {
+    display: inline;
+    width: 20%;
+}
+
+#resultat2 {
+    display: inline;
+    width: 20%;
+}
+
 #date {
-    display:inline;
+    display: inline;
 }
 
 #itgirls {
