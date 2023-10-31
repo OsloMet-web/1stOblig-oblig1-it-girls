@@ -1,5 +1,5 @@
 body{
-    background-color: lightgray;
+    background-color: grey;
 }
 button {
     background-color: white;
@@ -23,15 +23,28 @@ button:active {
 }
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+
+    width: 100%;
+    
   }
+div{
+    background-color: white;
+    width: 700px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+   margin-left: 350px;
+   font-family: sans-serif;
+ 
+}
 
+.journalist{
+    font-family: sans-serif;
+}
 
-.journalist {
-    text-align: center;
+#itgirls{
+  color: orangered;  
+
 }
 
 #resultat1 {
