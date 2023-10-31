@@ -64,3 +64,30 @@ div{
 #itgirls {
     display:inline;
 }
+
+footer {
+    background-color: rgb(255,129,0);
+    padding-bottom: 20px;
+    padding: 3px;
+}
+
+header { 
+    background-color: rgb(255,129,0);
+    padding: 20px;
+}
+
+#bodyPageb {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: white;
+}
+
+h2{
+    font-size: 40px;
+}
+h3 {
+    font-size: 25px;
+}
+
+main {
+    margin-left: 80px;
+}
